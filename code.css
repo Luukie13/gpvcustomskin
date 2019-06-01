@@ -63,7 +63,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 .custom .trigger{/* These are the actual triggers themselves */
     width:86px;
     height:65px;
-    background: url(ps3-assets/triggers.png);
+    background: url(gpvcustomskin/triggers.png);
     opacity: 0;
 }
 /* The left and right classes below are used to position the triggers
